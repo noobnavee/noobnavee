@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naveen Shetty from Mangalore, Karnataka, India.
 - 👀 I’m interested in Cyber-Security & AI.
 - 🌱 I’m currently learning Cyber-Security, AI, Programming & Computer Science.
-- 💞️ I’m looking to collaborate on Cyber-Security & AI works.
+- 🤝 I’m looking to collaborate on Cyber-Security & AI works.
 - 📫 How to reach me? email me @:- naveenshettygoo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a noob! ;) ⚡
