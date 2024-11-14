@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cyber-Security & AI works.
 - 📫 How to reach me? email me @:- naveenshettysec@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a noob!;) ⚡
+- ⚡ Fun fact: I am a noob! ;) ⚡
 
 <!---
 noobnavee/noobnavee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
