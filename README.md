@@ -1,8 +1,8 @@
-- 👋 Hi, I’m a noob from Earth!. 
+- 👋 Hi, I’m a Naveen!. 
 - 👀 I’m interested in Cyber-Security & AI.
 - 🌱 I’m currently learning Cyber-Security, AI, Programming & Computer Science.
 - 🤝 I’m looking to collaborate on Cyber-Security & AI works.
-- 📫 How to reach me? IDK :|
+- 📫 How to reach me? still working on that...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a noob! ;) ⚡
 
